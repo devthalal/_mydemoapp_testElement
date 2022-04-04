@@ -1,0 +1,1 @@
+{"name":"testElement","type":"ui-elements","source":{"https":"https://github.com/devthalal/_mydemoapp_testElement","ssh":"git@github.com:devthalal/_mydemoapp_testElement.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
